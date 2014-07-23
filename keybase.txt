@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/dewey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://notmyhostna.me
+  * I am dewey (https://keybase.io/dewey) on keybase.
+  * I have a public key with fingerprint AA6F A1E8 62E3 0BDB 1FE5  6DF7 E047 2B03 3D23 D359
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.11"
+        },
+        "key": {
+            "fingerprint": "aa6fa1e862e30bdb1fe56df7e0472b033d23d359",
+            "host": "keybase.io",
+            "key_id": "E0472B033D23D359",
+            "uid": "241a11da4dc08b8d7fbe7e116be54500",
+            "username": "dewey"
+        },
+        "merkle_root": {
+            "ctime": 1406133407,
+            "hash": "5a758aa4a1338f6d95efe0a3fd45888959f10361f156561b087b15e04c0b6679e720a3d83bc574f3772353b1598186bba6d8e5c8f5239375057e8baf3b6bc236",
+            "seqno": 30755
+        },
+        "service": {
+            "hostname": "notmyhostna.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1406133460,
+    "expire_in": 157680000,
+    "prev": "23e2175ff5b9cb18e5d09b108375173c124764008fda494903c87d3a40f93863",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+owFdkntMFEccx088sVIfJFoEhEI2kSIe15mbnX0c0qoFbZXaUGNMrYg7u7Owwt2e
+d8fRg17UwkXFB0ZbpdWUQNTWUK+0NpVoscj5qFoFmpo+YiO1WkSbaiokVVG7izR9
+7F87v99nvvP9zm+2TRhtiRlVK0yIefKzxtRR5/qJZXHX1W+rGaIrQcZZzcjlGnX7
+zT+35KKMkymjQSL5qF3T0926Qu2rfOkjjI0JUK9P090GBeysHUImZDN5c7equUuo
+1+PVTDFGkjhVglTgHBQBohCoUswpKk8ByzsIQEhxIAVh0dAs1X3+/xzLDGsWa4pR
+zTf5uQaf50B5j/mK4YaDhRKEisQqMhCIoPAqoTyFkCMUsxgAE/RR70gmhVYaLg2z
+LuotK6fFXl0fjiz7NbMPWcBBhFjAG3YkX6mxA0s8FiSJlYy6oHKKiKlKgYRUhcWC
+IIhYVCFAHFQh5jAHCRB4ArERTwaE43iR8g6DVgREZMyzKuJ5B8LIQEQBChwhEqcI
+FMuCih1IRDwGmKcCkVREOCI7EGf499HVbp1xIsBjHDKX3oAmU9O2eWUjydy63xV8
+vLYbBRvj8ep+XdbLjV6p3+/xOc3Y/qDHhCspKT44olNMNLdizOzfU4UG+r8r4YCN
+oW94NC8t1kwC85wAjM88iAbMQSDqgDxWVUxEmUAjlAJEAoFghII8kqGD5TkWAEE1
+hiWyIkCywCtIYoEqIoFD/wTlDJ9SiSHp00rckr/CS5nQxpgUq2VUjCV2TIz5bC1x
+4+L/fssn1sRb1tuX5ywo8mztuVfxUsHF6cGCVzO+PC9cODdxTXErU1KU3tLU25hc
+WGSbvdT9XGPWwOmEHaClvU/5sGZ+ryuU1e2SfF15AWvy5+yepJS7lnkWZ2pm05tT
+vyqM25B4dnv9id/0L1zN2Ymxl79v3/zzjeCuC8ytDL1WfnjjpwS/d8rYU8F9ca9v
+fPB++7jNB6JvpR23WHeH06eWPZud0d1fOUvOXOKduk7P0esH1+48UHJmX+qRJjJt
+6EFszbSXNyQ+I9613g8teiXrKHbdGt2xam0rOHk4r/zB9erlA48GI5ab1oWXXuvB
+yfvh+GYms+qjM5FfMlc+3fxD4xGaEi57d/cHN6OL8y8Lydmn20POMSkzvumPrfp6
+c9GLc8dHmbil9c8/lVpbd2Vm2taM5CkzbTW9R3vmZOVmnN3bsWLh4KLugsmzCptW
+Trgfn//jsbun4ibl1rS+15pzsa/hj4axdYF1k6MFq+vDm9S588QIvt01jm+eMdu6
+xOYaeuL6Aus7bVu+S4j2JrFpnZ6DuZVXo+G2FxbkPcx3TivY+cmcdsvEQ+FNvkxX
+8/rOqrbSXct2fTrlVsejpL112TNT9lTsnH8te/9aEp976jAT2f77thV83aS2K9Nz
+Gsifv25tedupTkpc1Np5bAfsKzg5EIncBh9L17Lu3JEbjsfAtM4dRcsSnIHzq4cO
+hcva90r3Ll34Cw==
+=XKfH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dewey
+
+==================================================================
